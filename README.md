@@ -1,5 +1,6 @@
 # bs-examples
-It's a web scraping example for WHP
+
+It's a web scraping example for WHP. You can get the full document at: [Implementing Web Scraping in Python with BeautifulSoup](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
 
 ## Step1
 
